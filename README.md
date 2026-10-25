@@ -1,4 +1,3 @@
-\<div align="center">
 
 # ⚡ Open Data Engineering Ecosystem
 
@@ -626,7 +625,6 @@ Before publishing, add the appropriate `LICENSE` file and update this section to
 
 ---
 
-\<div align="center">
 
 ### ⚡ Built for Developers. Designed for Real-World Data Systems.
 
